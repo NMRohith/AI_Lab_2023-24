@@ -64,8 +64,8 @@ Step 10 : Obtain the plan for given problem.<br>
 ```
 
 ### Output/Plan:
-![Screenshot 2024-04-29 091037](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/d4f22e91-acf9-4a1d-bd18-6a42f29cfeb0)
-![Screenshot 2024-04-29 091057](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/4e1e15ca-0d75-4e77-8ba1-2be2364352cd)
+![Screenshot 2024-10-03 113112](https://github.com/user-attachments/assets/4251db9a-7877-4257-8902-e7c23e91c5b0)
+![Screenshot 2024-10-03 113157](https://github.com/user-attachments/assets/3b5edd00-8d54-4345-891e-a4d763a5ed57)
 
 
 
