@@ -1,6 +1,6 @@
 # Ex.No: 1  Implementation of Breadth First Search 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 12.09.2024                                                                           
+### REGISTER NUMBER : 212222060202
 ### AIM: 
 To write a python program to implement Breadth first Search. 
 ### Algorithm:
@@ -43,20 +43,11 @@ def bfs(visited, graph, node):  # Function for BFS
 print("Following is the Breadth-First Search:")
 bfs(visited, graph, '5')  # Function calling
 ```
-Output
+### Output:
 ![image](https://github.com/user-attachments/assets/35e5671b-ae32-494e-95eb-1e767fbae64d)
 
 
 
-
-
-
-
-
-
-
-
-### Output:
 
 
 
